@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConverterApp</string>
+
+<string-array name="countryList">
+
+    <item>EUR</item>
+    <item>USD</item>
+    <item>AUD</item>
+</string-array>
+</resources>
